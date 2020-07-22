@@ -23,7 +23,7 @@ public class EncodingDecoding {
 	
 	public static void main(String[] args) {
 		EncodingDecoding en =  new EncodingDecoding();
-		en.encodeString("Narayanarao1@");
+		en.encodeString("");
 	}
 }
 
