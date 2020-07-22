@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 features = "src/test/resources/featurefiles", 
 glue = { "com.simple.stepdef" },
-tags = { "@wip" })
+tags = { "@dryrun" })
 public class TestRunner {
 
 }
