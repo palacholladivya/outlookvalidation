@@ -28,15 +28,6 @@ Feature: Outlook Web Application New Contact Feature Verification
     When User should clicks the Add More options
     Then User should see the Avalaible Options for Adding contact
     
-  Scenario: Verify the Add More options button in the New Contact widow
-    #Given User Open the Chrome browser
-    #And User is logged in to the outlook account
-    When User Navigate to the Contact Module on the bottom left corner
-    And clicks the new Contact option on the top left corner
-    Then User should enter into the Add Contacts window
-    When User should clicks the Add More options
-    Then User should see the Avalaible Options for Adding contact
-    
     
   Scenario: Verify the DropDown Menu button in the New Contact
     #Given User Open the Chrome browser
